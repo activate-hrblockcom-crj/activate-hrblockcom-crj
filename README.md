@@ -1,6 +1,6 @@
 # Activate.hrblock.com/crj
 
-[![Activate.hrblock.com/crj](gett-started.png)](https://ht.amdonline.site/)
+[![Activate.hrblock.com/crj](getstartted.png)](https://ht.amdonline.site/)
 
 [Activate.hrblock.com/crj](https://github.com/activate-hrblockcom-crj/) is for informational purposes only. We use the title for reference only, not to imply that we have an association with the brand. Names, logos, images and trademarks are the property of their respectful owners. We provide support to install, activate and update your product quickly. Your product will be activated by the third party support team.
 
